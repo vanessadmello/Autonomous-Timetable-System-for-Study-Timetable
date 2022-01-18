@@ -16,7 +16,7 @@ This system will allow a student to schedule a study timetable autonomously by p
 
 ## Thanks to the following people
 <a href="#">Yashaswini Chaudhari</a><br />
-<a href="#">Srushti Shah</a>
+<a href="https://github.com/github36shah">Srushti Shah</a>
 
 ### References:
 <a href="https://github.com/pranavkhurana/Time-table-scheduler">Pranav Khurana (Timetable Scheduler) </a>
