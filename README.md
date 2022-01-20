@@ -15,7 +15,7 @@ This system will allow a student to schedule a study timetable autonomously by p
 <img src="images/picture4.png" alt="Generated TimeTable" width="50%">
 
 ## Thanks to the following people
-<a href="#">Yashaswini Chaudhari</a><br />
+<a href="https://github.com/Yashaswini2110">Yashaswini Chaudhari</a><br />
 <a href="https://github.com/github36shah">Srushti Shah</a>
 
 ### References:
